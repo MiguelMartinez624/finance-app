@@ -19,11 +19,12 @@ export interface InitOutput {
   readonly __wbindgen_free: (a: number, b: number, c: number) => void;
   readonly __externref_drop_slice: (a: number, b: number) => void;
   readonly __wbindgen_export_7: WebAssembly.Table;
+  readonly _ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17hb755d7c6bd2808a1E: (a: number, b: number) => void;
   readonly _ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17h6d4beb2c634dec88E: (a: number, b: number) => void;
-  readonly _ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17h10400d5d449541edE: (a: number, b: number) => void;
-  readonly closure741_externref_shim: (a: number, b: number, c: any) => void;
-  readonly closure745_externref_shim: (a: number, b: number, c: any) => void;
-  readonly closure1067_externref_shim: (a: number, b: number, c: any) => void;
+  readonly _ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17h742bb92bf8353631E: (a: number, b: number) => void;
+  readonly closure2838_externref_shim: (a: number, b: number, c: any) => void;
+  readonly closure2844_externref_shim: (a: number, b: number, c: any) => void;
+  readonly closure3163_externref_shim: (a: number, b: number, c: any) => void;
   readonly __wbindgen_start: () => void;
 }
 
