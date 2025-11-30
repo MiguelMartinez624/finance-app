@@ -22,9 +22,9 @@ export interface InitOutput {
   readonly _ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17hb755d7c6bd2808a1E: (a: number, b: number) => void;
   readonly _ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17h6d4beb2c634dec88E: (a: number, b: number) => void;
   readonly _ZN132__LT_dyn_u20_core__ops__function__FnMut_LT__LP__RP__GT__u2b_Output_u20__u3d__u20_R_u20_as_u20_wasm_bindgen__closure__WasmClosure_GT_8describe6invoke17h742bb92bf8353631E: (a: number, b: number) => void;
-  readonly closure2847_externref_shim: (a: number, b: number, c: any) => void;
-  readonly closure2853_externref_shim: (a: number, b: number, c: any) => void;
-  readonly closure3172_externref_shim: (a: number, b: number, c: any) => void;
+  readonly closure3032_externref_shim: (a: number, b: number, c: any) => void;
+  readonly closure3038_externref_shim: (a: number, b: number, c: any) => void;
+  readonly closure3357_externref_shim: (a: number, b: number, c: any) => void;
   readonly __wbindgen_start: () => void;
 }
 
